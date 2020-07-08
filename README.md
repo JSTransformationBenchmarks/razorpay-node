@@ -7,6 +7,10 @@ Official nodejs library for [Razorpay API](https://docs.razorpay.com/docs/paymen
 
 Read up here for getting started and understanding the payment flow with Razorpay: <https://docs.razorpay.com/docs/getting-started>
 
+## JSTransformationBenchmarks
+
+Use `benchmark-stable` branch.
+
 ## Installation
 
 ```bash
